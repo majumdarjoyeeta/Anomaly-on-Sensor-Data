@@ -1,5 +1,4 @@
-
-🚨 #*Anomaly Detection in Sensor Data*🚨
+## Anomaly Detection in Sensor Data 🚨🚨🚨🚨
 Welcome to the Anomaly on Sensor Data project! This deep learning-based approach leverages unsupervised anomaly detection for time-series sensor data. By utilizing a stacked LSTM (Long Short-Term Memory) network, the model learns normal patterns and identifies deviations in sensor data. This project is ideal for real-world scenarios where anomalies are rare or undefined in advance. No labeled data required – it’s as intuitive as it gets! 🤖
 
 📋 Overview
